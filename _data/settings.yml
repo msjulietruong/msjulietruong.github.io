@@ -39,8 +39,8 @@ hero:
   hero-title: Hi! I’m Julie, <br> a Computer Science Student!
 
 social:
-  - { icon: "ti-linkedin", link: "#" }
-  - { icon: "ti-github", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/msjulietruong/" }
+  - { icon: "ti-github", link: "https://github.com/msjulietruong" }
 
 #-------------------------------
 # About (Section and Page)
