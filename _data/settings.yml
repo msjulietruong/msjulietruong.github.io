@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" } # may remove #
+  - { name: Experience, link: "/blog" } # may remove #
   - { name: Portfolio, link: "/portfolio" } 
   - { name: Contact, link: "/contact" }
 
@@ -67,29 +67,10 @@ work-process:
     icon: "assets/images/icons/print.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-# My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
-
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
 
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -97,19 +78,19 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: NASA Community College Aerospace Scholar,
+      name: "NASA Community College Aerospace Scholar",
       icon: "icon-1.png",
       date: "Jan 2023 - Present",
       organization: "NASA",
     }
   - {
-      name: Data Science Intern,
+      name: "Data Science Intern",
       icon: "icon-2.png",
       date: "Aug 2022 - Dec 2022",
       organization: "UCI",
     }
   - {
-      name: STEM Instructor/Mentor,
+      name: "STEM Instructor/Mentor",
       icon: "icon-3.png",
       date: "Aug 2022 - Dec 2022",
       organization: "Dreams For Schools",
@@ -121,20 +102,20 @@ experience:
 education-title: Education
 education:
   - {
-      name: Associate in Science Degree for Transfer: Computer Science,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: "Associate in Science Degree for Transfer: Computer Science",
+      date: "2023",
+      organization: "Cypress College",
     }
   - {
-      name: Associate in Science Degree for Transfer: Mathematics,
-      date: "2004",
-      organization: "Harvard University",
+      name: "Associate in Science Degree for Transfer: Mathematics",
+      date: "2023",
+      organization: "Cypress College",
     }
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Work Experience
 services:
   - {
       name: UI Design,
@@ -234,21 +215,6 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
@@ -287,5 +253,3 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
