@@ -2,19 +2,19 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: msjulietruong@gmail.com
+phone: 
+address: 
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
+  - { name: Blog, link: "/blog" } # may remove #
+  - { name: Portfolio, link: "/portfolio" } 
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -39,10 +39,8 @@ hero:
   hero-title: Hi! I’m Julie, <br> a Computer Science Student!
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "#" }
+  - { icon: "ti-github", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
