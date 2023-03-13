@@ -115,7 +115,7 @@ portfolio-home-items:
     url: "#"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://devpost.com/software/zotpeterzot-by-fabfour"
 
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
@@ -138,7 +138,7 @@ portfolio-items:
       - type: "DATA SCIENCE"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://devpost.com/software/zotpeterzot-by-fabfour"
     portfolio-type:
       - type: "EXTRACURRICULAR"
 
