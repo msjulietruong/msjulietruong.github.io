@@ -117,28 +117,35 @@ portfolio-home-items:
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
 
+  - image: "assets/images/portfolio/item-4.png"
+    url: "#"
+
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "PROJECTS", type: "design" }
+  - { title: "DATA SCIENCE", type: "branding" }
+  - { title: "EXTRACURRICULAR", type: "illustration" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "WEBDEV"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "DATA SCIENCE"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "EXTRACURRICULAR"
+
+  - image: "assets/images/portfolio/item-4.png"
+    url: "#"
+    portfolio-type: 
+     - type: "PROJECTS"
 
 #-------------------------------
 # Testimonials Section
