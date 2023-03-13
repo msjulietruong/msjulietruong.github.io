@@ -122,30 +122,30 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "PROJECTS", type: "design" }
-  - { title: "DATA SCIENCE", type: "branding" }
-  - { title: "EXTRACURRICULAR", type: "illustration" }
+  - { title: "PROJECTS", type: "projects" }
+  - { title: "DATA SCIENCE", type: "data science" }
+  - { title: "EXTRACURRICULAR", type: "extracurricular" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "WEBDEV"
+      - type: "projects"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "DATA SCIENCE"
+      - type: "data science"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "https://devpost.com/software/zotpeterzot-by-fabfour"
     portfolio-type:
-      - type: "EXTRACURRICULAR"
+      - type: "extracurricular"
 
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
     portfolio-type: 
-     - type: "PROJECTS"
+     - type: "projects"
 
 #-------------------------------
 # Testimonials Section
