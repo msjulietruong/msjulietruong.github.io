@@ -7,15 +7,12 @@ logo:
 author: themefisher
 description: this is meta description
 email: msjulietruong@gmail.com
-phone: 
-address: 
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" } #merge about and front page 
-  - { name: Experience, link: "/blog" }  #FOCAL POINT, add resume
+  - { name: Resume, link: "/Resume" }  #FOCAL POINT, add resume
   - { name: Portfolio, link: "/portfolio" }  #add website, data science, and mini proj
-  - { name: Contact, link: "/contact" } #remove
 
 #-------------------------------
 # Google Analytics Section
@@ -109,7 +106,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://drive.google.com/file/d/1fCsaYpZ2AbH8QHwfjGDL1SaxLt6MShNi/view?usp=sharing"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "https://devpost.com/software/zotpeterzot-by-fabfour"
@@ -127,7 +124,7 @@ portfolio-label:
 portfolio-items:
 
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://drive.google.com/file/d/1fCsaYpZ2AbH8QHwfjGDL1SaxLt6MShNi/view?usp=sharing"
     portfolio-type:
       - type: "data science"
 
@@ -141,14 +138,5 @@ portfolio-items:
     portfolio-type: 
      - type: "projects"
 
-#-------------------------------
-# Testimonials Section
 
-
-#-------------------------------
-# Client Slider Section
-
-
-#-------------------------------
-# Contact Section
 
