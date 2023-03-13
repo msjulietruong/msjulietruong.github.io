@@ -12,10 +12,10 @@ address:
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Experience, link: "/blog" } # may remove #
-  - { name: Portfolio, link: "/portfolio" } 
-  - { name: Contact, link: "/contact" }
+  - { name: About, link: "/about" } #merge about and front page 
+  - { name: Experience, link: "/blog" }  #FOCAL POINT, add resume
+  - { name: Portfolio, link: "/portfolio" }  #add website, data science, and mini proj
+  - { name: Contact, link: "/contact" } #remove
 
 #-------------------------------
 # Google Analytics Section
@@ -53,17 +53,17 @@ blurb-btn-name: know more
 
 # About Page
 
-# Work Process Section
+# Work Process Section  make this bout hobbies
 work-process:
-  - title: "Research and Plan"
+  - title: "Digital Art"
     icon: "assets/images/icons/plan.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Design and Develop"
+  - title: "Photography"
     icon: "assets/images/icons/design.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Deliver"
+  - title: "Movies"
     icon: "assets/images/icons/print.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
@@ -73,7 +73,7 @@ work-process:
 
 
 #-------------------------------
-# Exprerience Section
+# Experience Section, move to the clicker page
 
 experience-title: Experience
 experience:
@@ -97,7 +97,7 @@ experience:
     }
 
 #-------------------------------
-# Education Section
+# Education Section # will move to Resume, include pdf link to resume
 
 education-title: Education
 education:
@@ -113,7 +113,7 @@ education:
     }
 
 #-------------------------------
-# Services Section
+# Services Section  #move to experience so you can apply info there, add job titles and year, merge with exp
 
 services-title: Work Experience
 services:
@@ -219,36 +219,6 @@ portfolio-items:
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
 
 #-------------------------------
 # Contact Section
