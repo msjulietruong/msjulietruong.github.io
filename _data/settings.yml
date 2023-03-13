@@ -11,7 +11,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" } #merge about and front page 
-  - { name: Resume, link: "/Resume" }  #FOCAL POINT, add resume
+  - { name: Resume, link: "/blog" }  #FOCAL POINT, add resume
   - { name: Portfolio, link: "/portfolio" }  #add website, data science, and mini proj
 
 #-------------------------------
@@ -78,27 +78,6 @@ work-process:
 
 #-------------------------------
 # Services Section  #hobbies section
-
-services-title: Hobbies
-services:
-  - {
-      name: Digital Art,
-      icon: ti-palette,
-      description: "When I'm not coding, I love making art for the people I care about.",
-      active: ,# Add true to select section
-    }
-  - {
-      name: Movies,
-      icon: ti-vector,
-      description: "Movies are an amazing way to delve into new worlds.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: Reading,
-      icon: ti-panel,
-      description: "My favorite book is Perks of Being A Wallflower.",
-      active: ,# Add true to select section
-    }
 
 #-------------------------------
 # Portfolio (Section and Page)
