@@ -73,44 +73,11 @@ work-process:
 
 
 #-------------------------------
-# Experience Section, move to the clicker page
+# Experience Section, move to Resume too!
 
-experience-title: Experience
-experience:
-  - {
-      name: "NASA Community College Aerospace Scholar",
-      icon: "icon-1.png",
-      date: "Jan 2023 - Present",
-      organization: "NASA",
-    }
-  - {
-      name: "Data Science Intern",
-      icon: "icon-2.png",
-      date: "Aug 2022 - Dec 2022",
-      organization: "UCI",
-    }
-  - {
-      name: "STEM Instructor/Mentor",
-      icon: "icon-3.png",
-      date: "Aug 2022 - Dec 2022",
-      organization: "Dreams For Schools",
-    }
 
 #-------------------------------
 # Education Section # will move to Resume, include pdf link to resume
-
-education-title: Education
-education:
-  - {
-      name: "Associate in Science Degree for Transfer: Computer Science",
-      date: "2023",
-      organization: "Cypress College",
-    }
-  - {
-      name: "Associate in Science Degree for Transfer: Mathematics",
-      date: "2023",
-      organization: "Cypress College",
-    }
 
 #-------------------------------
 # Services Section  #move to experience so you can apply info there, add job titles and year, merge with exp
